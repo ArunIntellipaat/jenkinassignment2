@@ -1,0 +1,1 @@
+Build got triggered automatically and the content is copied to Test Server
